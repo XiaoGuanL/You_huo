@@ -67,7 +67,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="CSS\LN\xiaolang.css" />
     <Content Include="Html\HJP\test.html" />
+    <Content Include="Html\LN\xiaolang.html" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -86,11 +88,9 @@
     <Folder Include="CSS\HJP\" />
     <Folder Include="CSS\HXT\" />
     <Folder Include="CSS\JX\" />
-    <Folder Include="CSS\LN\" />
     <Folder Include="CSS\ZTY\" />
     <Folder Include="Html\HXT\" />
     <Folder Include="Html\JX\" />
-    <Folder Include="Html\LN\" />
     <Folder Include="Html\ZTY\" />
   </ItemGroup>
   <PropertyGroup>
