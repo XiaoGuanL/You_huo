@@ -68,7 +68,6 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Html\HJP\test.html" />
-    <Content Include="Html\LN\ln.html" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -91,6 +90,7 @@
     <Folder Include="CSS\ZTY\" />
     <Folder Include="Html\HXT\" />
     <Folder Include="Html\JX\" />
+    <Folder Include="Html\LN\" />
     <Folder Include="Html\ZTY\" />
   </ItemGroup>
   <PropertyGroup>
